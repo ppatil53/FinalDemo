@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cg</groupId>
-	<artifactId>Farming-Assistant</artifactId>
+	<artifactId>FarmerFeedbackMaven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Farming-Assistant</name>
-	<description>Farming Assistant Project</description>
+	<name>FarmerFeedbackMaven</name>
+	<description>FarmerFeedbackMaven Project</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
